@@ -28,7 +28,6 @@ public class AddingTodoItemsSteps {
     @Steps
     AddItemActions addItemActions;
 
-    @Steps
     DisplayedItemList displayedItemList;
 
     /*WebDriver driver;
